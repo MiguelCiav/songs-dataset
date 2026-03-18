@@ -3,10 +3,10 @@ calle-13_ojos-color-sol.txt : amor
 mcklopedia_lo-que-tu-quieres-que-sea.txt : amor
 lasso_no-pares-de-bailar.txt : amor
 sui-generis_estacion.txt : amor
-julio-jaramillo_nuestro-juramento : amor
+julio-jaramillo_nuestro-juramento.txt : amor
 almendra_muchacha-(ojos-de-papel).txt : amor
 soda-stereo_entre-canibales.txt : amor
-alan-sutton-y-las-criaturitas-de-la-ansiedad_bonsai : amor
+alan-sutton-y-las-criaturitas-de-la-ansiedad_bonsai.txt : amor
 ismael-rivera-y-sus-cachimbos_que-te-pasa-a-ti.txt : amor
 caramelos-de-cianuro_sanitarios.txt : amor
 charliepapa_merlina.txt : amor
@@ -44,7 +44,7 @@ elvis-crespo_suavemente.txt : fiesta
 elvis-crespo_pintame.txt : fiesta
 celia-cruz_quimbara.txt : fiesta
 canserbero_aceptas.txt : protesta
-canserbero_un-dia-en-el-barrio : protesta
+canserbero_un-dia-en-el-barrio.txt : protesta
 lil-supa_mierda.txt : protesta
 la-vida-boheme_voce.txt : protesta
 desorden-publico_politicos-paraliticos.txt : protesta
